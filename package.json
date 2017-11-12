@@ -16,6 +16,7 @@
   "dependencies": {
     "bson-objectid": "^1.2.1",
     "gun": "^0.8.9",
+    "keypair": "^1.0.1",
     "level-hyper": "^1.2.2",
     "mongo-mock": "^2.7.0",
     "uuid": "^3.1.0"

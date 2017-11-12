@@ -1,3 +1,4 @@
+npm-debug*
 *.db
 dist
 node_modules
